@@ -1,8 +1,8 @@
 ## Hi there, I'm Andy 👋
 I craft mobile apps with unmatched passion and attention to detail 🖌️
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me: iomole3@gmail.com
-- 💬 Ask me about Android, Kotlin, and Java
+- 💬 Ask me about **Android**, **Kotlin**, and **Java**
 
 <!--
 **andy-ife/andy-ife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
